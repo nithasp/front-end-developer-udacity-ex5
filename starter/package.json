@@ -1,0 +1,29 @@
+{
+  "name": "study-night",
+  "version": "1.0.0",
+  "description": "A flashcard application for optimizing and testing front-end web development",
+  "source": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "mocha",
+    "gulp": "gulp",
+    "build": "npx parcel build index.html --dist-dir dist",
+    "dev": "npx parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "cypress": "^15.8.1",
+    "eslint": "^9.39.2",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "gulp": "^5.0.1",
+    "gulp-cli": "^3.1.0",
+    "gulp-shell": "^0.8.0",
+    "mocha": "^11.7.5",
+    "parcel": "^2.16.3",
+    "prettier": "^3.7.4"
+  }
+}
