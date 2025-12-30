@@ -62,7 +62,7 @@ const renderCardForm = (set) => {
     termInput,
     descriptionLabel,
     descriptionInput,
-    addCardBtn,
+    addCardBtn
   );
 
   // Creates a container for the form elements and header

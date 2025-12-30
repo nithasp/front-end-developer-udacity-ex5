@@ -24,7 +24,7 @@ export const renderCardSetsPage = () => {
   const pageHeader = createHeader(
     "h2",
     "Study Set Library",
-    "study-set-header",
+    "study-set-header"
   );
 
   // Function creates the element representing the study card set

@@ -21,7 +21,7 @@ const renderHomePage = () => {
   //Creates subheader element
   const subHeading = createElement(
     "h2",
-    "A Digital Study Solution for the Modern World",
+    "A Digital Study Solution for the Modern World"
   );
 
   //Creates elements
